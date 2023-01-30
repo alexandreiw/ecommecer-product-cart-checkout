@@ -1,0 +1,58 @@
+export const products = [
+  {
+    id: '1',
+    title: 'AirPods Apple Fones de ouvido',
+    price: 1499,
+    formPayment: 'Em até 12x de R$ 124,92 R$ 1.349 à vista (10% de desconto)',
+    src: '/produto-01.jpeg',
+  },
+  {
+    id: '2',
+    title: 'Capa de silicone para iPhone 8/7 cor Areia - rosa',
+    price: 299,
+    formPayment: 'Em até 12x de R$ 24,92 R$ 269,10 à vista (10% de desconto)',
+    src: '/produto-02.jpeg',
+  },
+  {
+    id: '3',
+    title: 'Apple Pencil',
+    price: 729,
+    formPayment: 'Em até 12x de R$ 60,75 R$ 656,10 à vista (10% de desconto)',
+    src: '/produto-03.jpeg',
+  },
+  {
+    id: '4',
+    title: 'Magic Mouse 2 - Prateado',
+    price: 549,
+    formPayment: 'Em até 12x de R$ 45,75 R$ 494,10 à vista (10% de desconto)',
+    src: '/produto-04.jpeg',
+  },
+  {
+    id: '5',
+    title: 'Caixa prateada de alumínio com pulseira esportiva branca',
+    price: 2899,
+    formPayment: 'Em até 12x de R$ 241,58 R$ 2.609,10 à vista (10% de desconto)',
+    src: '/produto-05.jpeg',
+  },
+  {
+    id: '6',
+    title: 'Cabo de lightning para USB (1m)',
+    price: 149,
+    formPayment: 'Em até 12x de R$ 12,42 R$ 134,10 à vista (10% de desconto)',
+    src: '/produto-06.jpeg',
+  },
+  {
+    id: '7',
+    title: 'Smart Keyboard para iPad Pro 12,9 polegadas - inglês (EUA)',
+    price: 1099,
+    formPayment: 'Em até 12x de R$ 91,58 R$ 989,10 à vista (10% de desconto)',
+    src: '/produto-07.jpeg',
+  },
+  {
+    id: '8',
+    title: 'Carregador USB de 5W Apple',
+    price: 149,
+    formPayment: 'Em até 12x de R$ 12,42 R$ 134,10 à vista (10% de desconto)',
+    src: '/produto-08.jpeg',
+  },
+];
